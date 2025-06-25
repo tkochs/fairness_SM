@@ -1,0 +1,14 @@
+adults
+#default_of_credit_cards
+###compas
+#diabetes
+census
+#bankmarketing
+#credit
+#students_math
+#students_porto
+####communities
+#ricci
+#toy
+####heart_disease
+###testcase
